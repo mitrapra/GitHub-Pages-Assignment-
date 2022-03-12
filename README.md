@@ -1,2 +1,2 @@
-# GitHub-Pages-Assignment-
-Home Page
+# GPA
+Github Pages Assignment
